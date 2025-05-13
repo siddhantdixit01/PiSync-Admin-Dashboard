@@ -6,7 +6,7 @@
 
 1. Navigate to the frontend directory:
    ```bash
-   cd frontend
+   cd pisync-dashboard
    ```
 
 2. Install dependencies:
